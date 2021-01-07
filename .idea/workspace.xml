@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13c9092f-edcb-4074-bbdd-849c3bde31c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Git/Update_gitignore.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linux Shell/File-Transfer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linux Shell/Statistics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS/Node-npm_installation-upgrade.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS/Setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609742608148</updated>
       <workItem from="1609742609217" duration="2406000" />
-      <workItem from="1609984541027" duration="1783000" />
+      <workItem from="1609984541027" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="init notes">
       <created>1609744130820</created>
@@ -64,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609744130820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more notes">
+      <created>1609986448214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986448214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="reformat spacing on file transfer notes">
+      <created>1609986533049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986533049</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,12 +95,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="init notes" />
+    <MESSAGE value="more notes" />
+    <MESSAGE value="reformat spacing on file transfer notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat spacing on file transfer notes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1609744134466">
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1609986536346">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="496" y="311" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1609744134466" />
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2/1792.105.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1609986536346" />
   </component>
 </project>
