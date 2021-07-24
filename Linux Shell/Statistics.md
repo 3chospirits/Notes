@@ -12,6 +12,7 @@
 # check disk space
 
 # check file size
+`du -h filename`
 
 # check hardware
 
