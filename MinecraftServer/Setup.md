@@ -20,9 +20,3 @@
 
 ## copy files/make backup
 `cp -r /path/to/directory /path/to/location/new-name`
-
-
-{
-    "uuid": "43289d94-2cd7-4e2b-a390-cb407a20021a",
-    "name": "D3zzy"
-  },
