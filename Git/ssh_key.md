@@ -53,6 +53,6 @@ $ git clone git@github.com-acc1:username/repo1.git
 ### Updating an existing repository (using acc2)
 ```sh
 $ git remote -v # view the current git origin
-$ git remove set-url origin git@github.com-acc2:username/repo1.git
+$ git remote set-url origin git@github.com-acc2:username/repo1.git
 $ git remote -v # verify the git origin has been updated
 ```
