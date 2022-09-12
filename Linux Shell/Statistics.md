@@ -10,6 +10,7 @@
 `fast -u`   tests upload speed
 
 # check disk space
+`df -h`
 
 # check file size
 `du -h filename`
